@@ -1,4 +1,4 @@
-![header](https://s27389.pcdn.co/wp-content/uploads/2021/09/national-coding-week-2021-addressing-digital-skills-gap-1012x440.jpeg.webp)
+![header](https://w0.peakpx.com/wallpaper/469/148/HD-wallpaper-fullstack-development-nodejs-programmer-technology.jpg)
 
 Hello!👋
 - 👀 My name is Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
