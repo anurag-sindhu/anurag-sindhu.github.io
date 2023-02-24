@@ -1,6 +1,6 @@
 <!-- ![header  height='50' width='auto' ](https://w0.peakpx.com/wallpaper/469/148/HD-wallpaper-fullstack-development-nodejs-programmer-technology.jpg) -->
 
-  <img src='https://w0.peakpx.com/wallpaper/469/148/HD-wallpaper-fullstack-development-nodejs-programmer-technology.jpg' height='350px' width='800px' alt="js">
+  <img src='https://w0.peakpx.com/wallpaper/469/148/HD-wallpaper-fullstack-development-nodejs-programmer-technology.jpg' height='200px' width='800px' alt="js">
 
 Hello!👋
 - 👀 My name is Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
