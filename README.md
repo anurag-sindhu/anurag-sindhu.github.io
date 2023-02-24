@@ -13,7 +13,7 @@ Hello!👋
    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="Mysql" width="40" height="40"/>
    <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="Mongo" width="40" height="40"/>
    <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest" width="40" height="40"/>
-   <img src="https://www.gstatic.com/devrel-devsite/prod/v8fd805b581ccd4ea25bb3c9d6fd75d38ac1dfcb55016a4d660f139190a81898b/cloud/images/social-icon-google-cloud-1200-630.png" alt="Mysql" width="40" height="40"/>
+   <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="Mysql" width="40" height="40"/>
 </p>
 
 ## &#x1f4c8; GitHub Stats
