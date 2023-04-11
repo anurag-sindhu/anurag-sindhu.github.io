@@ -3,10 +3,10 @@
   <img src='https://w0.peakpx.com/wallpaper/469/148/HD-wallpaper-fullstack-development-nodejs-programmer-technology.jpg' height='200px' width='800px' alt="js">
 
 Hello!👋
-- 👀 My name is Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
+- 👀 Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
 - 🌱 I’m currently working on NodeJs, Javascript, TypeScript, Mysql, MongoDB, GCP, AWS, and Jest.
 - 💞️ I have worked with Falabella, In time tec and springworks. 👀 I'm currently working with Medibuddy.
-- 📫 You can reach out tp me on `sindhuanurag2@gmail.com` or <a href="https://www.linkedin.com/in/-anurag-sindhu/">LinkedIn</a>.
+- 📫 You can reach out to me on `sindhuanurag2@gmail.com` or <a href="https://www.linkedin.com/in/-anurag-sindhu/">LinkedIn</a>.
 
 ## 🔧 Langueages & Tools
 <p align='left'>
