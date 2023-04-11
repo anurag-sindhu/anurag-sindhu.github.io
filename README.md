@@ -8,6 +8,8 @@ Hello!👋
 - 💞️ I have worked with Falabella, In time tec and springworks. 👀 I'm currently working with Medibuddy.
 - 📫 You can reach out to me on `sindhuanurag2@gmail.com` or <a href="https://www.linkedin.com/in/-anurag-sindhu/">LinkedIn</a>.
 - 📫 Download my resume by just one <a href="https://tinyurl.com/2p86bhdd">click</a>.
+- 📫 Participation on <a href="https://www.hackerrank.com/sindhuanurag2">Hackerrank</a>.
+- 📫 Participation on <a href="https://leetcode.com/anurag8867">Leetcode</a>.
 
 ## 🔧 Langueages & Tools
 <p align='left'>
