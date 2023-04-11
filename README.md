@@ -4,7 +4,7 @@
 
 Hello!👋
 - 👀 Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
-- 🌱 I’m currently working on <a href="https://cutshort.io/certificate/6659"> NodeJs, <a href="https://cutshort.io/certificate/6660"> Javascript, TypeScript, Mysql, MongoDB, GCP, AWS, NestJs, and Jest.
+- 🌱 I’m currently working on <a href="https://cutshort.io/certificate/6659"> NodeJs</a>, <a href="https://cutshort.io/certificate/6660"> Javascript</a>, TypeScript, Mysql, MongoDB, GCP, AWS, NestJs, and Jest.
 - 💞️ I have worked with Falabella, In time tec and springworks. 👀 I'm currently working with Medibuddy.
 - 📫 You can reach out to me on `sindhuanurag2@gmail.com` or <a href="https://www.linkedin.com/in/-anurag-sindhu/">LinkedIn</a>.
 - 📫 Download my resume by just one <a href="https://tinyurl.com/2p86bhdd">click</a>.
