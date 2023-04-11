@@ -7,6 +7,7 @@ Hello!👋
 - 🌱 I’m currently working on NodeJs, Javascript, TypeScript, Mysql, MongoDB, GCP, AWS, and Jest.
 - 💞️ I have worked with Falabella, In time tec and springworks. 👀 I'm currently working with Medibuddy.
 - 📫 You can reach out to me on `sindhuanurag2@gmail.com` or <a href="https://www.linkedin.com/in/-anurag-sindhu/">LinkedIn</a>.
+- 📫 Download my resume by just one <a href="https://tinyurl.com/2p86bhdd">click</a>.
 
 ## 🔧 Langueages & Tools
 <p align='left'>
