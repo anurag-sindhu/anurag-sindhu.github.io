@@ -11,7 +11,7 @@ Hello!👋
 - 📫 Participation on <a href="https://www.hackerrank.com/sindhuanurag2">Hackerrank</a>.
 - 📫 Participation on <a href="https://leetcode.com/anurag8867">Leetcode</a>.
 
-## 🔧 Langueages & Tools
+## 🔧 Languages & Tools
 <p align='left'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJs" width="auto" height="40"/>
