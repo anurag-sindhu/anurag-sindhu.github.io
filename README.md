@@ -5,11 +5,11 @@
 Hello!👋
 - 👀 Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
 - 🌱 I’m currently working on <a href="https://cutshort.io/certificate/6659"> NodeJs</a>, <a href="https://cutshort.io/certificate/6660"> Javascript</a>, TypeScript, Mysql, MongoDB, GCP, AWS, NestJs, and Jest.
-- 💞️ I have worked with Falabella, In time tec and springworks. 👀 I'm currently working with Medibuddy.
+- 💞️  👀 I'm currently working with Aditya Birla's 👕 <a href="https://www.tmrw.in">Tmrw</a>. I have worked with  <a href="https://www.medibuddy.in">Medibuddy</a>,  <a href="https://falabellaindia.com">Falabella</a>,  <a href="https://www.springworks.in">Springworks</a> and  <a href="https://www.intimetec.com">In time tec</a>.
 - 📫 You can reach out to me on `sindhuanurag2@gmail.com` or <a href="https://www.linkedin.com/in/-anurag-sindhu/">LinkedIn</a>.
-- 📫 You are just a <a href="https://tinyurl.com/2p86bhdd">Click</a> away from my Resume.
-- 📫 Participation on <a href="https://www.hackerrank.com/sindhuanurag2">Hackerrank</a>.
+- 📫 You are just a <a href="https://drive.google.com/uc?export=download&id=1SVmz4JGqXmWBU3xyzygG4XhQFumfhwvh">Click</a> away from my Resume.
 - 📫 Participation on <a href="https://leetcode.com/anurag8867">Leetcode</a>.
+- 📫 Participation on <a href="https://www.hackerrank.com/sindhuanurag2">Hackerrank</a>.
 
 ## 🔧 Languages & Tools
 <p align='left'>
