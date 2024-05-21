@@ -13,11 +13,11 @@ Hello!👋
 
 ## 🔧 Languages & Tools
 <p align='left'>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJs" width="auto" height="40"/>
-   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="Mysql" width="40" height="40"/>
-   <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="Mongo" width="40" height="40"/>
-   <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest" width="40" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">&nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJs" width="auto" height="40"/>&nbsp;&nbsp;
+   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="Mysql" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="Mongo" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest" width="40" height="40"/>&nbsp;&nbsp;
    <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="Mysql" width="40" height="40"/>
 </p>
 
