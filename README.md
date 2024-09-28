@@ -1,4 +1,4 @@
-<img src='https://w0.peakpx.com/wallpaper/469/148/HD-wallpaper-fullstack-development-nodejs-programmer-technology.jpg' height='200px' width='800px' alt="js">
+<!-- <img src='https://w0.peakpx.com/wallpaper/469/148/HD-wallpaper-fullstack-development-nodejs-programmer-technology.jpg' height='200px' width='800px' alt="js"> -->
 
 # 👋 Hello World!
 
