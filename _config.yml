@@ -1,7 +1,6 @@
-```yaml
-title: 🌟 Anurag Sindhu 🌟  # Your name (or website title) here
-logo: "/b14c9d01-bf17-4d63-97b5-d134e25776b9.jpeg"  # Your photo (or logo) here
-description: >  # Your text below (remove <br> elements if you don't need line breaks)
+title: Anurag Sindhu # your name (or website title) here
+logo: "/IMG_20210214_121553 (2).jpg" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
   👨‍💻 Software Engineer  
   <br><br>
   📧 <a href="mailto:sindhuanurag2@gmail.com">Connect with me via Email!</a>  
@@ -10,4 +9,3 @@ description: >  # Your text below (remove <br> elements if you don't need line b
   <br>
   💼 Let's collaborate and build amazing projects together! 🚀  
 theme: jekyll-theme-minimal
-```
