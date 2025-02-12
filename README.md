@@ -3,35 +3,7 @@
 
 # 👋 Hello World!
 
-<!--
-To Do:
-Experience not jumping
-In tab no icon coming
-Put proof of share market app's first commit
--->
-
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Experience Calculator</title>
-</head>
-<body>
-    <h2><span id="experience-years">(Calculating...)</span></h2>
-
-<script>
-        document.addEventListener('DOMContentLoaded', function () {
-            const startDate = new Date('March 1, 2023');
-            const currentDate = new Date();
-            const experienceInMs = currentDate - startDate;
-            const experienceInYears = (experienceInMs / (1000 * 60 * 60 * 24 * 365)).toFixed(1);
-            document.getElementById('experience-years').textContent = `(${experienceInYears} Yrs)`;
-        });
-</script>
-</body>
-</html>
-
 
 I'm **Anurag Sindhu**, a passionate **Backend Engineer** from 🇮🇳 **India**, currently living in the vibrant city of **Bangalore**!
 
